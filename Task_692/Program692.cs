@@ -6,7 +6,7 @@ namespace Task_692
     {
         static void Main()
         {
-            int number = Math.Abs(int.Parse(Console.ReadLine()));
+            int number = int.Parse(Console.ReadLine());
             if (number >= 1 && (number & (number - 1)) == 0)
             {
                Console.WriteLine("YES"); 
