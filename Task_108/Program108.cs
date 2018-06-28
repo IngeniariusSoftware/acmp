@@ -6,7 +6,7 @@ namespace Task_108
     {
         static void Main()
         {
-            
+            Console.WriteLine(Console.ReadLine());
         }
     }
 }
