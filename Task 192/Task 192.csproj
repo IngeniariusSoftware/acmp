@@ -7,7 +7,7 @@
     <ProjectGuid>{52CB6D4B-DC8D-495A-B24D-4757B7FFD2E0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Task_192</RootNamespace>
-    <AssemblyName>Task_192</AssemblyName>
+    <AssemblyName>Task 192</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Program192.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
