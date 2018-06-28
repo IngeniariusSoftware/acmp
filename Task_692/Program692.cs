@@ -1,15 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task_692
 {
-    class Program
+    class Program692
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            int number = Math.Abs(int.Parse(Console.ReadLine()));
+            if (number >= 1 && (number & (number - 1)) == 0)
+            {
+               Console.WriteLine("YES"); 
+            }
+            else
+            {
+                Console.WriteLine("NO");
+            }
         }
     }
 }
