@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_692", "Task_692\Task_692.csproj", "{06663D36-1A53-487B-B68B-5BCB4CD7DB7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 692", "Task_692\Task 692.csproj", "{06663D36-1A53-487B-B68B-5BCB4CD7DB7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_108", "Task_108\Task_108.csproj", "{F582546C-E823-49E5-ABF8-6B6F5C183C43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 108", "Task_108\Task 108.csproj", "{F582546C-E823-49E5-ABF8-6B6F5C183C43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "Task_1\Task_1.csproj", "{7C383F6E-D2BD-461C-A9E8-0545494D6DED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task_1\Task 1.csproj", "{7C383F6E-D2BD-461C-A9E8-0545494D6DED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_903", "Task_903\Task_903.csproj", "{5D4DBA99-88AB-40E2-9EA3-13F08B14A689}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 903", "Task_903\Task 903.csproj", "{5D4DBA99-88AB-40E2-9EA3-13F08B14A689}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 942", "Task 942\Task 942.csproj", "{280472C5-938B-4D0F-8458-A2C7BE770232}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 552", "Task 552\Task 552.csproj", "{77E016D4-26EA-4DA9-8225-A20C173EBDBE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 25", "Task 25\Task 25.csproj", "{8082EA28-77A1-4F1B-87FA-DCE42F0E5CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 766", "Task 766\Task 766.csproj", "{B5A6460E-FF50-4471-AE88-3D45BBCE1E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{8082EA28-77A1-4F1B-87FA-DCE42F0E5CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8082EA28-77A1-4F1B-87FA-DCE42F0E5CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8082EA28-77A1-4F1B-87FA-DCE42F0E5CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A6460E-FF50-4471-AE88-3D45BBCE1E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A6460E-FF50-4471-AE88-3D45BBCE1E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A6460E-FF50-4471-AE88-3D45BBCE1E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A6460E-FF50-4471-AE88-3D45BBCE1E04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
