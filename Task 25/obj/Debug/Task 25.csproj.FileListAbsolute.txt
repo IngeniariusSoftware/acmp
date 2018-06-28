@@ -1,0 +1,7 @@
+D:\Projects\acmp\Task 25\bin\Debug\Task 25.exe.config
+D:\Projects\acmp\Task 25\bin\Debug\Task 25.exe
+D:\Projects\acmp\Task 25\bin\Debug\Task 25.pdb
+D:\Projects\acmp\Task 25\obj\Debug\Task 25.csprojAssemblyReference.cache
+D:\Projects\acmp\Task 25\obj\Debug\Task 25.csproj.CoreCompileInputs.cache
+D:\Projects\acmp\Task 25\obj\Debug\Task 25.exe
+D:\Projects\acmp\Task 25\obj\Debug\Task 25.pdb
