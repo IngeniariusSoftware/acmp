@@ -1,0 +1,7 @@
+D:\Projects\acmp\Task 72\bin\Debug\Task 72.exe.config
+D:\Projects\acmp\Task 72\bin\Debug\Task 72.exe
+D:\Projects\acmp\Task 72\bin\Debug\Task 72.pdb
+D:\Projects\acmp\Task 72\obj\Debug\Task 072.csproj.CoreCompileInputs.cache
+D:\Projects\acmp\Task 72\obj\Debug\Task 72.exe
+D:\Projects\acmp\Task 72\obj\Debug\Task 72.pdb
+D:\Projects\acmp\Task 72\obj\Debug\Task 072.csprojAssemblyReference.cache
