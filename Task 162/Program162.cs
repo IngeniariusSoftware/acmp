@@ -5,7 +5,7 @@ namespace Task_162
     class Program162
     {
         static void Main()
-        { 
+        {
             string[] tokens = Console.ReadLine().Split();
             int number1 = int.Parse(tokens[0]);
             int number2 = int.Parse(tokens[1]);
@@ -24,7 +24,7 @@ namespace Task_162
             {
                 if (number1 % 2 == 1 && number2 % 2 == 1)
                 {
-                  Console.WriteLine((number2 + 2) * number1 + number2 * (number1 + 2) - 2);  
+                    Console.WriteLine((number2 + 2) * number1 + number2 * (number1 + 2) - 2);
                 }
                 else
                 {
