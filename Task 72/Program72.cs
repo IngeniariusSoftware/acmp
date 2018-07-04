@@ -2,9 +2,9 @@
 
 namespace Task_072
 {
-    class Program
+    class Program72
     {
-        static void Main(string[] args)
+        static void Main()
         {
             char[] sequence = Console.ReadLine().ToCharArray();
             int length = sequence.Length;
